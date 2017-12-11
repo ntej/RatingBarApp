@@ -1,1 +1,1 @@
-Rating Bar Demo
+# Rating Bar Android App
